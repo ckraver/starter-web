@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Charles Kraver ckraver@git.training @coolck
 
 # THANKS
 
