@@ -19,7 +19,7 @@ More deployment text now.
 
 ## How to Contribute
 
-Contribution suggestions would land here.
+Please fork this repositore and then issue Pull Requests for review.
 
 2021 Git.Training. C.K.
 
