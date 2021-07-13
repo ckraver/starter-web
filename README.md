@@ -21,5 +21,6 @@ More deployment text now.
 
 Please fork this repositore and then issue Pull Requests for review.
 
-2021 Git.Training. C.K.
+2021 Git.Training. C.K. 
+Change during Tortoise training
 
