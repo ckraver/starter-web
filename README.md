@@ -2,6 +2,9 @@
 
 Starting again for merge/diff work.
 
+This is a simple website project for showing how
+to use Git and Github together.
+
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example, then adding more changes after the 
 rebase from myfeature branch. Emergency fix after our stash.
