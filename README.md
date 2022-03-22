@@ -18,12 +18,16 @@ Here is more Intro text.
 
 ## Purpose
 
+Another change for merge/diff work.
+
 Sample website with plenty of files for demos
 Purpose text is getting extended.
 
 ## Deployment
 
 Another change for merge/diff work.
+
+More changes for merge/diff work.
 
 Deployment notes would go here.
 More deployment text now.
