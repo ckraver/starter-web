@@ -3,6 +3,7 @@
 
 # TEAM
 
+    Chuck Kraver chuckk@git.traning @smoothck
     Charles Kraver ckraver@git.training @coolck
 
 # THANKS
