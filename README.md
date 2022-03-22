@@ -34,6 +34,8 @@ More deployment text now.
 
 ## How to Contribute
 
+More changes for merge work.
+
 Please fork this repositore and then issue Pull Requests for review.
 
 ### Copyright 
