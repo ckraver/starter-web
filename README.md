@@ -18,6 +18,8 @@ Purpose text is getting extended.
 
 ## Deployment
 
+Another change for merge/diff work.
+
 Deployment notes would go here.
 More deployment text now.
 
