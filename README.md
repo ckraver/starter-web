@@ -11,6 +11,8 @@ rebase from myfeature branch. Emergency fix after our stash.
 
 ## Introduction
 
+Introduction again for merge/diff work.
+
 Intro would go here.
 Here is more Intro text.
 
